@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1547137927 source:d:\utn\laboratorio1\tp1\calculadora.correccion\bertello.c
+	<stdio.h>
+	<stdlib.h>
+	"Bertello.h"
+
+1538066415 d:\utn\laboratorio1\tp1\calculadora.correccion\bertello.h
+
+1547138504 source:d:\utn\laboratorio1\tp1\calculadora.correccion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bertello.h"
+
