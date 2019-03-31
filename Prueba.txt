@@ -1,1 +1,8 @@
-Prueba
+git bash here
+
+
+git init
+git status
+git add
+copi paste
+git push
